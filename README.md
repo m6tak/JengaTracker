@@ -1,16 +1,26 @@
-# jenga
+# Jenga
+Jenga is mobile app that tracks games of jenga. It counts moves and floors built and creates history of all games played with their statistics.
 
-A new Flutter project.
+# About
+## Idea
+It came from playing classic jenga. Idea of tracker seemed handy and keeping track of game statistics, history and records adds really fun element to the game. 
 
-## Getting Started
+## Sceens
+![Main menu](/images/mianmenu.png)
+![Play screen](/images/playscreen.png)
+![Game history](/images/gamehistory.png)
 
-This project is a starting point for a Flutter application.
+## Project roadmap
+- [x] Tracking game of jenga (counting moves, floors, controlling turns)
+- [x] History of all games played
+- [ ] Player profiles
+- [ ] Player statistics
+- [ ] Game ranking
+    - [ ] Filetring by player count
+- [ ] Player ranking
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+App was build with flutter v1.15.3.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+* Icon: https://www.flaticon.com/authors/freepik
