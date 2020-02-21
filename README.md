@@ -6,7 +6,7 @@ Jenga is mobile app that tracks games of jenga. It counts moves and floors built
 It came from playing classic jenga. Idea of tracker seemed handy and keeping track of game statistics, history and records adds really fun element to the game. 
 
 ## Sceens
-![Main menu](/images/mianmenu.png)
+![Main menu](/images/mainmenu.png)
 ![Play screen](/images/playscreen.png)
 ![Game history](/images/gamehistory.png)
 
